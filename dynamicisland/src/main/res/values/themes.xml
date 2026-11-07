@@ -1,0 +1,17 @@
+<resources>
+    <style name="Theme.DynamicIsland" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0F0F12</item>
+        <item name="android:navigationBarColor">#0F0F12</item>
+    </style>
+
+    <style name="Theme.DynamicIsland.LockScreen" parent="android:Theme.Translucent.NoTitleBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+</resources>

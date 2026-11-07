@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GalaxyLauncher</string>
+    <string name="settings_title">Launcher Settings</string>
+    <string name="gesture_settings">Motion Gestures</string>
+    <string name="chop_chop_title">Chop-Chop for Flashlight</string>
+    <string name="chop_chop_desc">Quickly chop phone twice vertically to toggle flashlight</string>
+    <string name="wrist_twist_title">Double Wrist Twist for Camera</string>
+    <string name="wrist_twist_desc">Twist wrist back and forth twice to launch camera</string>
+    <string name="gyro_calibration">Gyroscope Sensitivity (3-Axis)</string>
+    <string name="gyro_x_axis">X-Axis Sensitivity (Pitch)</string>
+    <string name="gyro_y_axis">Y-Axis Sensitivity (Roll)</string>
+    <string name="gyro_z_axis">Z-Axis Sensitivity (Yaw)</string>
+    <string name="dynamic_island_settings">Dynamic Island Settings</string>
+    <string name="camera_alignment_desc">Fine-tune Dynamic Island alignment over Galaxy F62 front camera</string>
+    <string name="offset_y">Vertical Offset (Y)</string>
+    <string name="pill_size">Pill Rest Size</string>
+    <string name="motion_service_notification_channel">Gesture Detection</string>
+    <string name="motion_service_notification_title">Galaxy Gestures Active</string>
+    <string name="motion_service_notification_text">Monitoring chop-chop and wrist twist gestures</string>
+</resources>

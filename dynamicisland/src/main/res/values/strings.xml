@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dynamic Island PRO</string>
+    <string name="island_service_channel">Dynamic Island Background Service</string>
+    <string name="island_service_desc">Displays the Dynamic Island pill over your native camera</string>
+    <string name="island_notification_listener">Dynamic Island Notification Access</string>
+</resources>
